@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching by Yuchen Yang
+title: Teaching by 林恒福
 ---
 <div class="cv">
   <b>Brief introduction to R</b>, Every semester <br/> 
