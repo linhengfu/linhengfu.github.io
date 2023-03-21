@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuchen Yang' Software
+title: 研究生
 ---
 
 ### Single-cell RNA-seq
