@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuchen Yang's feature researches
+title: Hengfu Lin's feature researches
 ---
 
 ### Aggregated Clustering Method for Single-cell RNA-seq Data
